@@ -3,6 +3,7 @@
   มะเร็งเต้านม (Breast Cancer) คือโรคมะเร็งที่เกิดจากการเจริญเติบโตผิดปกติของเซลล์บริเวณเต้านม
 
 # เครื่องมือที่ใช้
+- StandardScaler
 - ทำ Neural Network แบบ Sequential Model จาก TensorFlow เพื่อทำ Binary Classification สำหรับการจำแนกมะเร็งเต้านม
 - โดยใช้ Sequential Model 32 Node และ epochs 100 ครั้ง ในการ Binary Classification (มีเนื้อร้าย yes / ไม่มีเนื้อร้าย no)
 
