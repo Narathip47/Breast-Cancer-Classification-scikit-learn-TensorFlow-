@@ -1,6 +1,6 @@
 # Breast-Cancer-Classification-scikit-learn-TensorFlow-
 - ทำ Neural Network แบบ Sequential Model จาก TensorFlow เพื่อทำ Binary Classification สำหรับการจำแนกมะเร็งเต้านม
-- โดยใช้ Sequential Model ในการ Binary Classification (มีเนื้อร้าย yes / ไม่มีเนื้อร้าย no)
+- โดยใช้ Sequential Model 32 Node และ epochs 100 ครั้ง ในการ Binary Classification (มีเนื้อร้าย yes / ไม่มีเนื้อร้าย no)
 
 # ผลการทดลอง
 - โมเดลมีความแม่นยำ 85.3%
