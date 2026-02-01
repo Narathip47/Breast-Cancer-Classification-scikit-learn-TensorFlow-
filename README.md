@@ -4,6 +4,7 @@
 
 # เครื่องมือที่ใช้
 - StandardScaler
+- train_test_split 
 - ทำ Neural Network แบบ Sequential Model จาก TensorFlow เพื่อทำ Binary Classification สำหรับการจำแนกมะเร็งเต้านม
 - โดยใช้ Sequential Model 32 Node และ epochs 100 ครั้ง ในการ Binary Classification (มีเนื้อร้าย yes / ไม่มีเนื้อร้าย no)
 
